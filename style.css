@@ -1,0 +1,41 @@
+* { font-family: calibri; font-size: 20px;}
+
+body {
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #663300;
+}
+
+h1 {
+    text-align: center;
+    font-size: 200%;
+}
+
+.wrapper {
+    max-width: 1000px;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+}
+
+.cover {
+    max-width: inherit;
+    overflow-x: hidden;
+}
+
+.footer {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+
+.footer p {
+    font-size: inherit;
+}
+
+.footer a {
+    color: inherit;
+    text-decoration: none;
+    font-size: inherit;
+}
